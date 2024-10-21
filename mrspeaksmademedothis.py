@@ -1,0 +1,1 @@
+print("Please give me a mastery")
